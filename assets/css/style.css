@@ -642,8 +642,9 @@ section {
   padding-top: 10px;
 }
 
+
 .why-us .box {
-  padding: 50px 30px;
+  padding:  10px 30px 25px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   transition: all ease-in-out 0.3s;
 }
@@ -672,7 +673,7 @@ section {
 
 .why-us .box:hover {
   background: #FF6E17;
-  padding: 30px 30px 70px 30px;
+  padding: 20px 30px 40px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
 }
 
@@ -1189,9 +1190,9 @@ section {
 .contact .info-box i {
   font-size: 32px;
   color: #FF6E17;
-  border-radius: 50%;
+
   padding: 8px;
-  border: 2px dotted #f5a0a0;
+
 }
 
 .contact .info-box h3 {
@@ -1332,6 +1333,7 @@ section {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
+
 #footer {
   background: #0c0c0c;
   padding: 0 0 30px 0;
